@@ -44,14 +44,6 @@ A two-player interactive word-building game built with Java Swing. Players take 
 
 ---
 
-## 📸 Screenshots
-
-*(Add screenshots here to showcase the UI)*  
-Example:
-```markdown
-![Game UI](images/wordgame-ui.png)
-
-
 
 Future Enhancements
 🧠 Dictionary validation for submitted words
@@ -68,7 +60,14 @@ Future Enhancements
 
 Author
 ROOP CHAND — Computer Science Student & Tech Enthusiast Blending with software creativity. 
+
+
+
 =======
+
+Full Code:
+
+
 # Word-Game
 import javax.swing.*;
 import java.awt.*;
